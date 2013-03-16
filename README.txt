@@ -1,3 +1,4 @@
+本项目不是本人的，作者的都在google code上我只是发布到github上，如需最新的版本请移步到google code上checkout
 keta-security是一个开源的java开源权限系统，使用了maven作为项目管理，基本框架使用了现在流行的SpringMVC+Spring+Hibernate（springside作为项目粘合构架），安全框架用的是简单易用的Apache Shiro，
 UI显示用的是比较火的基于Jquery的DWZ，数据层封装使用了傻瓜式的Spring Data Jpa包。
 
